@@ -4,9 +4,9 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>ca.cleaning_depot.fishbowl.plugins</groupId>
-	<artifactId>template</artifactId>
-	<version>0.0.1</version>
-	<name>PBJ Template Fishbowl Plugin</name>
+	<artifactId>qbo-button</artifactId>
+	<version>1.0.0</version>
+	<name>QBO Button Fishbowl Plugin</name>
 	<packaging>jar</packaging>
 	<organization>
 		<name>PBJ Cleaning Depot Inc.</name>

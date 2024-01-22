@@ -1,3 +1,3 @@
-# template-fishbowl-plugin
+# qbo-button-fishbowl-plugin
 
-Clone this repo and use it as a base point for making new fishbowl plugins.
+Easily find your invoices and bills on QuickBooks Online from Fishbowl.
